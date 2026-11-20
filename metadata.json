@@ -1,0 +1,6 @@
+{
+  "name": "MasrafPro - Kurumsal Masraf Takip",
+  "description": "Admin, ortak ve çalışan rolleri için fiş/fatura okutmalı, GPS konum takipli, KDV ve denetim kayıtlı mobil Android PWA masraf takip uygulaması.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
